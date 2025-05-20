@@ -1,0 +1,21 @@
+# Virtual environment
+env/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Log files
+server.log
+*.log
+
+# Processed data files (add specific patterns as needed)
+*.csv
+*.json
+*.parquet
+*.pickle
+*.pkl
+processed_data/
